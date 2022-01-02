@@ -30,5 +30,19 @@ function updateSquare(position) {
   square.innerHTML = `<div class="${symbol}"></div>`;
 }
 
+document.getElementById('btn').addEventListener('click', () => {
+
+  board = ['', '', '', '', '', '', '', '', '',];
+  playerTime = 0;
+  gameOver = false;
+
+  let squares = document.querySelectorAll('.square')
+
+  for (let i = 0; i < squares.length; i++) {
+
+      squares[i].innerHTML = '';
+  };
+
+});
 
 

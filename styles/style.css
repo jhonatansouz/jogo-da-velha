@@ -49,3 +49,26 @@ h1{
   left: 0;
   right: 0;
 }
+
+#btn {
+  width: 300px;
+  height: 30px;
+  border-radius: 3px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #3a3aff;
+  padding: 2px;
+  margin: 20px;
+  border: none;
+  box-shadow: 0 0 0.7em #5768ff;
+  transition: color 0.2s;
+}
+
+#btn:hover {
+  background-color: #2323a1;
+
+}
+
+#btn:active {
+  box-shadow:none;
+}
