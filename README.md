@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ✔️JavaScript
 
 ## Meta
-**Made by:** Lucas Lopes
+**Made by:** Jhonatan Souza
 
 [Linked-in](https://www.linkedin.com/in/jhonatan-souz/ "My Linked-in")
 
